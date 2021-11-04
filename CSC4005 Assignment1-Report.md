@@ -1,10 +1,5 @@
 # CSC4005 Assignment1-Report
 
-Student ID: 119010114  
-
-Student Name: Huang Yingyi
-
-
 
 [TOC]
 
