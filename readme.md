@@ -1,7 +1,5 @@
-# CSC4005 Assignment1-Report
+# Odd-Even Sort by MPI
 
-
-[TOC]
 
 
 
